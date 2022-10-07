@@ -1,0 +1,22 @@
+{
+  "parties": [
+    {
+      "parent": "Hank Williams",
+      "child": "Billy Williams",
+      "address": "1827 Bilbow Lane",
+      "reservationDate": "2022-10-22",
+      "id": 1
+    }
+  ],
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Buttons"
+    },
+    {
+      "id": 2,
+      "name": "Lollipop"
+    }
+  ],
+  "completions": []
+}
